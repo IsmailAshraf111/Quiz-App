@@ -32,7 +32,7 @@ function getQuestions() {
 
       // Count Down
 
-      countDown(120, Qcunt);
+      countDown(10, Qcunt);
 
       // Click On Submit
       Sbtn.onclick = () => {
